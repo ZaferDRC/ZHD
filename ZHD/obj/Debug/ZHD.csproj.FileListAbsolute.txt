@@ -9,3 +9,4 @@ C:\Users\zafer\source\repos\ZHD\ZHD\obj\Debug\ZHD.csproj.CoreCompileInputs.cache
 C:\Users\zafer\source\repos\ZHD\ZHD\obj\Debug\ZHD.exe
 C:\Users\zafer\source\repos\ZHD\ZHD\obj\Debug\ZHD.pdb
 C:\Users\zafer\source\repos\Zhd\ZHD\obj\Debug\ZHD.MasaIslemlerics.resources
+C:\Users\zafer\source\repos\Zhd\ZHD\obj\Debug\ZHD.Logincs.resources

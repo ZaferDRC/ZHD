@@ -16,6 +16,8 @@ namespace ZHD
         {
             InitializeComponent();
             InitializeTimer();
+            Logincs loginForm = new Logincs();
+            Application.Run(loginForm);
         }
 
         private void toolStripButton1_Click(object sender, EventArgs e)
