@@ -1,0 +1,11 @@
+C:\Users\zafer\source\repos\ZDH\ZDH\bin\Debug\ZDH.exe.config
+C:\Users\zafer\source\repos\ZDH\ZDH\bin\Debug\ZDH.exe
+C:\Users\zafer\source\repos\ZDH\ZDH\bin\Debug\ZDH.pdb
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.csproj.AssemblyReference.cache
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.Properties.Resources.resources
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.csproj.GenerateResource.cache
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.csproj.CoreCompileInputs.cache
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.exe
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.pdb
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.Login.resources
+C:\Users\zafer\source\repos\ZDH\ZDH\obj\Debug\ZDH.Home.resources
