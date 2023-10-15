@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
             this.label_Clock = new System.Windows.Forms.Label();
             this.label58 = new System.Windows.Forms.Label();
             this.label59 = new System.Windows.Forms.Label();
@@ -582,7 +581,7 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
+            this.pictureBox7.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox7.Location = new System.Drawing.Point(1396, 700);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(110, 109);
@@ -602,7 +601,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
+            this.pictureBox6.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox6.Location = new System.Drawing.Point(1723, 700);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(110, 109);
@@ -723,7 +722,7 @@
             // 
             // pictureBox12
             // 
-            this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
+            this.pictureBox12.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox12.Location = new System.Drawing.Point(1033, 353);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(110, 109);
@@ -733,7 +732,7 @@
             // 
             // pictureBox11
             // 
-            this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
+            this.pictureBox11.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox11.Location = new System.Drawing.Point(25, 700);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(110, 109);
@@ -743,7 +742,7 @@
             // 
             // pictureBox10
             // 
-            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
+            this.pictureBox10.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox10.Location = new System.Drawing.Point(684, 353);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(110, 109);
@@ -753,7 +752,7 @@
             // 
             // pictureBox9
             // 
-            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
+            this.pictureBox9.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox9.Location = new System.Drawing.Point(1396, 353);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(110, 109);
@@ -763,7 +762,7 @@
             // 
             // pictureBox8
             // 
-            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+            this.pictureBox8.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox8.Location = new System.Drawing.Point(1723, 353);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(110, 109);
@@ -773,7 +772,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox5.Location = new System.Drawing.Point(684, 700);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(110, 109);
@@ -783,7 +782,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox4.Location = new System.Drawing.Point(1033, 700);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(110, 109);
@@ -793,7 +792,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox3.Location = new System.Drawing.Point(317, 700);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(110, 109);
@@ -803,7 +802,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox2.Location = new System.Drawing.Point(317, 353);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(110, 109);
@@ -813,7 +812,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Image = global::ZDH.Properties.Resources.Ps;
             this.pictureBox1.Location = new System.Drawing.Point(25, 353);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(110, 109);

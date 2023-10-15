@@ -17,8 +17,8 @@ namespace ZDH
             if (txt.Text == "Şifre")
             {
                 txt.Text = "";
+                txt.ForeColor = Color.Black;
                 txt.PasswordChar = '*';
-                txt.ForeColor = Color.Gray;
             }
         }
 
@@ -37,7 +37,6 @@ namespace ZDH
             if (txt.Text == "Kullanıcı Adı")
             {
                 txt.Text = "";
-                txt.ForeColor = Color.Gray;
             }
         }
 

@@ -71,6 +71,19 @@ namespace ZDH
                     MessageBox.Show("Kullanıcı adı veya şifre yanlış !!", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+
+            catch (FormatException)
+            {
+
+                MessageBox.Show("Lütfen sadece rakam ve harf kullanınız!", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            catch (OverflowException)
+            {
+
+                MessageBox.Show("Lütfen gereksiz karakter girmeyiniz!", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
             catch (Exception)
             {
 
