@@ -56,9 +56,10 @@ namespace ZDH
 
                 if (User_Name == "123" && Pass == "123")
                 {
+                    this.Hide();
                     Home Home = new Home();
                     Home.Show();
-                    this.Hide();
+                  
                 }
 
                 else if (User_Name == "Kullanıcı Adı" || Pass == "Şifre" || string.IsNullOrEmpty(User_Name) || string.IsNullOrEmpty(Pass) || string.IsNullOrWhiteSpace(User_Name) ||string.IsNullOrWhiteSpace(Pass))
